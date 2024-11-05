@@ -1,6 +1,11 @@
 ---
 hub: "cdcepi/FluSight-forecast-hub/"
-title: "Example Hub Dashboard Website"
+title: "Zhian's Test, Too"
 pages:
   - "about.md"
 
+html:
+  css: null
+  theme:
+    dark: "cyborg"
+    light: "lux"
